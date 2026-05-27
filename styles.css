@@ -1,0 +1,41 @@
+#principal{
+    /* color:rgb(219, 113, 13); */
+    font-size: px;
+    text-align: center;   
+    display: flex; 
+    justify-content: center;
+}
+
+#principal h1 {
+    margin: 0; 
+    color: rgb(255, 123, 0);
+    font-size: 50px;
+}
+
+#principal img {
+    margin: 0; 
+    display: block;
+}
+
+/* h1{
+    color:rgb(197, 18, 18);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+} */
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    color: brown;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
