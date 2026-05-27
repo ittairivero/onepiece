@@ -4,12 +4,26 @@
     text-align: center;   
     display: flex; 
     justify-content: center;
+
 }
+
+body{
+    background-color: blanchedalmond;
+
+}
+
+#prin{
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
 
 #principal h1 {
     margin: 0; 
     color: rgb(255, 123, 0);
     font-size: 50px;
+    margin-left: 200px;
 }
 
 #principal img {
@@ -100,3 +114,7 @@ p{
 
 }
 
+
+#form{
+    text-align: center;
+}
